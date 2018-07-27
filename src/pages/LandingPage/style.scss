@@ -23,7 +23,6 @@
       flex: auto;
       display: flex;
       flex-direction: column;
-      justify-content: center;
       text-align: center;
 
       > .intro-name {
@@ -32,10 +31,12 @@
         font-weight: bold;
         line-height: 4rem;
         padding-bottom: 1rem;
-
         @include breakpoint-small-down {
           font-size: 3rem;
           line-height: 3.5rem;
+        }
+        .intro-sub-text {
+          font-size: 3rem;
         }
       }
 

@@ -6,8 +6,8 @@
   display: flex;
 	flex: 0 1 auto;
 	flex-direction: column;
-  justify-content: center;
-  
+  align-items: center;
+
   @include breakpoint-small-down {
     padding-top: 3rem;
   }
@@ -15,6 +15,7 @@
   h1 {
     padding: 1rem 0;
     font-size: 3rem;
+    align-items: center;
   }
 
   .content-grid {
@@ -22,11 +23,12 @@
   }
 
   .about-wrapper {
-    
+
     .about-content {
       font-size: 0.875rem;
       line-height: 1.5rem;
-      
+      justify-content: center;
+      align-items: center;
       @include breakpoint-small-down {
         font-size: 1rem;
       }
