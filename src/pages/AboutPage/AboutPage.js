@@ -25,30 +25,13 @@ const AboutPage = (props, context) => {
         <div className="about-wrapper">
           <div className="about-content" style={{ color: textPrimary }}>
             <p>
-              I like <span className="highlight">JavaScript</span> and
-              everything web.
+              <span className="highlight"><b>Emily Zhang</b></span> is a Chinese-American visual artist, photographer, and student from Atlanta, Georgia. A 2017 National YoungArts foundation finalist and 2018 Scholastic Art and Writing Awards national gold medalist, she has been recognized by the Alliance for Young Artists and Writers, and has been published in The Adroit Journal and TRACK//FOUR journal. Her work has appeared in exhibitions at Savannah College of Art and Design, Miami Art District’s YoungArts Foundation, Pratt Institute, and New York University’s Steinhardt Rosenberg Gallery, among others.
             </p>
             <p>
-              When my dev senses kick-in I build presumably{' '}
-              <span className="highlight"> awesome stuff</span>. I stay close to
-              the community and try to keep tabs with the pace at which the web
-              is evolving. I also like to{' '}
-              <span className="highlight">blog</span> what I learn.
+              Because her work primarily focuses on her own family roots, Chinese history, and the “model minority” experience, much of her inspiration comes from her experiences exploring areas of old Shanghai.
             </p>
             <p>
-              I built this site <span className="highlight">from scratch</span>.
-              By scratch, I mean <i>absolutely from scratch</i>{' '}
-              <span className="highlight">
-                without any UI library/framework
-              </span>{' '}
-              (except React though) and had so much fun along the way.
-            </p>
-            <p>
-              React-Redux, Node.js, Ruby on Rails, Java, Spring Boot, Docker and
-              AWS are the main tricks up my sleeve. I am also obsessed with making the web look pretty with SASS/CSS.
-            </p>
-            <p className="text-emoji" style={{ color: colorPrimary }}>
-              \ (•◡•) /
+              She has received mentorship from master multidisciplinary artists such as Derrick Adams, Naomi Fisher, and Watermark Contemporary Gallery artist and RISD Alum Kristen Glosser. In addition, her work has been featured in galleries curated by Director of Perez Art Museum Miami, Franklin Sirmans.
             </p>
           </div>
         </div>
