@@ -25,10 +25,10 @@ const AboutPage = (props, context) => {
         <div className="about-wrapper">
           <div className="about-content" style={{ color: textPrimary }}>
             <p>
-              <span className="highlight"><b>Emily Zhang</b></span> is a Chinese-American visual artist, photographer, and student from Atlanta, Georgia. A 2017 National YoungArts foundation finalist and 2018 Scholastic Art and Writing Awards national gold medalist, she has been recognized by the Alliance for Young Artists and Writers, and has been published in The Adroit Journal and TRACK//FOUR journal. Her work has appeared in exhibitions at Savannah College of Art and Design, Miami Art District’s YoungArts Foundation, Pratt Institute, and New York University’s Steinhardt Rosenberg Gallery, among others.
+              <span className="highlight"><b>Emily Zhang</b></span> is a Chinese-American visual artist, photographer, and student from Atlanta, Georgia. A <b>2017 National YoungArts foundation finalist</b> and <b>2018 Scholastic Art and Writing Awards national gold medalist</b>, she has been recognized by the Alliance for Young Artists and Writers, and has been published in The Adroit Journal and TRACK//FOUR journal. Her work has appeared in exhibitions at Savannah College of Art and Design, Miami Art District’s YoungArts Foundation, Pratt Institute, and New York University’s Steinhardt Rosenberg Gallery, among others.
             </p>
             <p>
-              Because her work primarily focuses on her own family roots, Chinese history, and the “model minority” experience, much of her inspiration comes from her experiences exploring areas of old Shanghai.
+              Because her work primarily focuses on her own <b>family roots, Chinese history, and the “model minority” experience</b>, much of her inspiration comes from her experiences exploring areas of old Shanghai, where all of her extended family resides and where both of her parents were born and raised.
             </p>
             <p>
               She has received mentorship from master multidisciplinary artists such as Derrick Adams, Naomi Fisher, and Watermark Contemporary Gallery artist and RISD Alum Kristen Glosser. In addition, her work has been featured in galleries curated by Director of Perez Art Museum Miami, Franklin Sirmans.
