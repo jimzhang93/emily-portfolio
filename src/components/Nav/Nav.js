@@ -58,7 +58,7 @@ class Nav extends Component {
       >
         <div className="magic-wand bounce-xy" onClick={(e) => switchTheme()}>
           <button className="fas fa-magic fa-lg" href="#" />
-          <div className="magic-text">Color Me</div>
+        <div className="magic-text">Switch Colors</div>
         </div>
         <style jsx="true">
           {`
@@ -76,9 +76,15 @@ class Nav extends Component {
           </div>
           <div
             className="menu__item"
-            onClick={(e) => this.scrollToPage('.portfolio-page')}
+            onClick={(e) => this.scrollToPage('.art-page')}
           >
-            Portfolio
+            Art
+          </div>
+          <div
+            className="menu__item"
+            onClick={(e) => this.scrollToPage('.photography-page')}
+          >
+            Photography
           </div>
         </div>
       </nav>

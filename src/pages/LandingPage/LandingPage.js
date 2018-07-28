@@ -21,7 +21,6 @@ const LandingPage = (props, context) => {
           </div>
         </div>
       </main>
-      <ScrollToNext pageSelector=".about-page" />
     </div>
   );
 };

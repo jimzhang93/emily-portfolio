@@ -1,13 +1,13 @@
 @import 'breakpoints';
 
-.portfolio-page {
+.art-page {
   padding-top: 2rem;
   min-height: 100vh;
   display: flex;
 	flex: 0 1 auto;
 	flex-direction: column;
   justify-content: center;
-  
+
   @include breakpoint-small-down {
     padding-top: 3rem;
   }
