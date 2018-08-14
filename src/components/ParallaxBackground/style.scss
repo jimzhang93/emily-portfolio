@@ -83,7 +83,7 @@ $shadows-big: multiple-box-shadow(100);
     border-radius: 50%;
     background: transparent;
     box-shadow: $shadows-big;
-    animation: animStar 10s linear infinite;
+    animation: animStar 20s linear infinite;
 
     &:after {
       content: " ";

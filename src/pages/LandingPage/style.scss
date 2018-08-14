@@ -18,6 +18,13 @@
     @include breakpoint-small-down {
       padding: 4.25rem 1.5rem 1rem;
     }
+    .head-shot {
+      height: 62vh;
+      width: 27.5vw;
+      align-self: center;
+      margin-top: 2vh;
+      border: 5px solid;
+    }
 
     .intro-wrapper {
       flex: auto;

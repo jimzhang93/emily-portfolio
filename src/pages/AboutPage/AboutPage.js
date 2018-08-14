@@ -34,7 +34,7 @@ const AboutPage = (props, context) => {
               She has received <b>mentorship from master multidisciplinary artists</b> such as Derrick Adams, Naomi Fisher, and Watermark Contemporary Gallery artist and RISD Alum Kristen Glosser. In addition, her work has been featured in galleries curated by Director of Perez Art Museum Miami, Franklin Sirmans.
             </p>
             <p>
-              If you wish to connect, I'd love to chat! I can be reached at <b>emzhang00@gmail.com</b>. Thank you for visiting!
+              *If you wish to connect, she can be reached at <b>emzhang00@gmail.com</b>. Thank you for visiting!*
             </p>
           </div>
         </div>
