@@ -19,7 +19,7 @@ const LandingPage = (props, context) => {
           <div className="tagline">
             Student | Artist | Photographer | Life Enthusiast
           </div>
-          <img alt='headshot' className="head-shot" src={require('@images/emily-picture.jpg')}/>
+          <img alt='headshot' className="head-shot" src={require('@images/emily-picture-2.jpg')}/>
         </div>
       </main>
     </div>
